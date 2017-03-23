@@ -121,6 +121,9 @@ p {
   font-family: "Hind", sans-serif;
   color: #777; }
 
+academy-badge {
+	margin-left: 33px; }
+
 .p-small {
   font-size: 14px;
   color: #777;
